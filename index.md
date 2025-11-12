@@ -76,4 +76,3 @@ layout: default
 
 ---
 
-*© 2025 Zhang Ning — Powered by GitHub Pages*
